@@ -1,27 +1,32 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import UpcomingEvents from "./quartz/components/UpcomingEvents"
-
-/**
- * Layout — utopia.cooplab.org
- * Living lab + CARe Robustesse & Soin
- *
- * Différences vs conversations :
- * - LinksHeader spécifique (sections utopia)
- * - RecentNotes dans la colonne droite (actualité du labo)
- * - Graph désactivé (graphe moins central ici)
- * - Composant UpcomingEvents dans right (à créer pour CARe)
- */
 
 // =================================================
-// SHARED
+// GRAPH CONFIG (MMW)
+// =================================================
+
+const tagsToRemove = ["graph-exclude"]
+
+const graphConfig = {
+  localGraph: {
+    removeTags: tagsToRemove,
+    excludeTags: tagsToRemove,
+  },
+  globalGraph: {
+    removeTags: tagsToRemove,
+    excludeTags: tagsToRemove,
+  },
+}
+
+// =================================================
+// SHARED COMPONENTS
 // =================================================
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
 
   header: [
-    Component.LinksHeader(),   // → LinksHeader.tsx spécifique utopia
+    Component.LinksHeader(),
   ],
 
   afterBody: [],
@@ -29,6 +34,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "cooplab.org": "https://cooplab.org",
+      "Utopia": "https://utopia.cooplab.org",
       "CC BY-SA": "https://creativecommons.org/licenses/by-sa/4.0/",
     },
   }),
@@ -67,18 +73,7 @@ export const defaultContentPageLayout: PageLayout = {
         filterFn: (node) => node.name !== "templates",
       })
     ),
-    // Rencontres CARe depuis data/events.json
-    Component.DesktopOnly(UpcomingEvents()),
-    // RecentNotes : actualité du living lab
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Récemment dans le labo",
-        limit: 4,
-        filter: (f) =>
-          f.slug!.startsWith("partage/") ||
-          f.slug!.startsWith("care/"),
-      })
-    ),
+    Component.DesktopOnly(Component.Graph(graphConfig)),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -116,6 +111,7 @@ export const defaultListPageLayout: PageLayout = {
         filterFn: (node) => node.name !== "templates",
       })
     ),
+    Component.DesktopOnly(Component.Graph(graphConfig)),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
