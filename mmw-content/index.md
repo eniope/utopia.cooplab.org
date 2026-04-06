@@ -7,18 +7,31 @@ orientation: conversations-situées
 regime: seuil
 description: "Un lieu ouvert, fait de seuils, de logiques et de gestes possibles, pour éprouver les conditions ordinaires des conversations."
 ---
+---
+type: page
+title: "utopia.cooplab.org"
+date: 2026-04-05
+status: ouverture
+orientation: terrain-vivant
+regime: seuil
+publish: true
+---
 
-# Conversations en lisières
+> *L'utopie est à l'horizon. Je fais deux pas en avant, elle recule de deux pas. Je fais dix pas, et l'horizon s'éloigne de dix pas. Alors, à quoi sert l'utopie ? À ça : à avancer.*
+> Eduardo Galeano
 
-> Ce dispositif documentaire est pensé comme un espace de création où se tissent des conversations et des alliances au sein même des pratiques de recherche engagées .  
+Ce site regarde vers les futurs possibles - ceux qui se construisent depuis le territoire, depuis les liens, depuis les situations ordinaires qui font monde ensemble.
 
-<p style="text-align:center;">
-  <img
-    src="/static/images/Les-metiers-de-nos-pensees.jpg"
-    alt="Les métiers de nos pensées"
-    style="max-width:60%; height:auto;"
-  />
-</p>
+Ce n'est pas un programme puisque c'est un terrain vivant.
 
+## Premier jalon visible
 
+**10 avril 2026** — visio *Design with care de territoires robustes*  
+Avec Marcela Mussi et Antoine Fenoglio  (Les Issues, Boussac-Bourg) dans le réseau [CARe / larobustesse.org](https://larobustesse.org/soin/?PagePrincipale).
+
+Une rencontre entre soin, territoire et capacité d'agir. Ce qui en émergera alimentera aussi progressivement ce site.
+
+## Ce qui vient
+
+Des jalons, des traces, des situations habitées, un maillage en formation, pas un agenda.
 
