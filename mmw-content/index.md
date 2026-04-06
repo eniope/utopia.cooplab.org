@@ -24,5 +24,5 @@ Une rencontre entre soin, territoire et capacité d'agir. Ce qui en émergera al
 
 ## Ce qui vient
 
-Des jalons, des traces, des situations habitées, un maillage en formation, pas un agenda.
+Des jalons, des traces, des situations habitées, un maillage qui se crée au cours d'un agenda civique en constitution. 
 
