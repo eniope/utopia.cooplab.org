@@ -17,7 +17,7 @@ Ce n'est pas un programme puisque c'est un terrain vivant.
 
 ## Premier jalon visible
 
-**10 avril 2026** — visio *Design with care de territoires robustes*  
+**10 avril 2026** - visio *Design with care de territoires robustes*  
 Avec Marcela Mussi et Antoine Fenoglio  (Les Issues, Boussac-Bourg) dans le réseau [CARe / larobustesse.org](https://larobustesse.org/soin/?PagePrincipale).
 
 Une rencontre entre soin, territoire et capacité d'agir. Ce qui en émergera alimentera aussi progressivement ce site.
