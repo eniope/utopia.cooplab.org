@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  * Fork de conversations-en-lisieres.collaborations
  */
 const config: QuartzConfig = {
-  contentDir: "content",
+  contentDir: "mmw-content",
 
   configuration: {
     pageTitle: "Utopia",
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
 
-    baseUrl: "utopia.cooplab.org",
+    baseUrl: "conversations.cooplab.org",
 
     ignorePatterns: ["private", "**/templates/", ".obsidian", "_static"],
 
