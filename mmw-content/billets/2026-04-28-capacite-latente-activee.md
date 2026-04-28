@@ -28,7 +28,7 @@ Mais Ogien s'arrête là, il réfute l'incompétence mais il ne dit pas comment 
 
 Or cette émergence n'est ni naturelle ni spontanée. C'est là que les deux textes entrent en tension productive. Vercauteren refuse la bonne volonté comme ressort suffisant : combien de groupes ont échoué de s'y être trop fiés ? La puissance d'un collectif dépend de sa capacité à inventer les dispositifs qui rendent le "devenir capable" de chacun l'affaire de tous. Contre la psychologisation, c'est le système qu'il faut cultiver - pas les individus seuls.
 
-Ce que l'un ne dit pas, l'autre le fonde. Ogien fournit la matière : une capacité déjà là, construite par l'expérience ordinaire. Vercauteren fournit la condition : des artifices délibérément inventés pour que cette capacité latente s'active et circule. Entre les deux se loge exactement ce que j'appelle *alliance capacitante* - ni rencontre heureuse, ni dispositif technocratique, mais l'invention patiente des conditions pour que le "devenir capable" de chacun devienne réellement possible.
+Ce que l'un ne dit pas, l'autre le fonde. Ogien fournit la matière : une capacité déjà là, construite par l'expérience ordinaire. Vercauteren fournit la condition : des artifices délibérément inventés pour que cette capacité latente s'active et circule. Entre les deux se loge exactement ce que j'appelle *alliance capacitante*[^4] - ni rencontre heureuse, ni dispositif technocratique, mais l'invention patiente des conditions pour que le "devenir capable" de chacun devienne réellement possible.
 
 ---
 
@@ -36,4 +36,6 @@ Ce que l'un ne dit pas, l'autre le fonde. Ogien fournit la matière : une capaci
 
 [^2]: Albert Ogien, « La capacité politique des citoyen·ne·s », *Mélanges de la Casa de Velázquez*, 49-1, 2019, p. 275-278. https://journals.openedition.org/mcv/9683
 
-[^3]: David Vercauteren, *Micropolitiques des groupes*, section « Rôles ». https://micropolitiques.collectifs.net/Roles
+[^3]: David Vercauteren, *Micropolitiques des groupes-pour une écologie des pratiques collectives*, section « Rôles ». https://micropolitiques.collectifs.net/Roles
+
+[^4]: « C’est à la barbarie que nous condamnent les récits et raisonnements dont nous sommes littéralement noyés. Nous avons désespérément besoin d’autres histoires, non des contes de fées où tout est possible aux cœurs purs, aux âmes courageuses, ou aux bonnes volontés réunies, mais des histoires racontant comment des situations peuvent être transformées lorsque ceux qui les subissent réussissent à les penser ensemble. Non des histoires morales, mais des histoires « techniques » à propos de ce type de réussite, des pièges auxquels il s’est agi, pour chacune, d’échapper, des contraintes dont elles ont reconnu l’importance. Bref, des histoires qui portent sur le penser ensemble comme « œuvre à faire ». https://indigenes-republique.fr/rencontre-discussion-avec-houria-bouteldja-et-isabelle-stengers/
