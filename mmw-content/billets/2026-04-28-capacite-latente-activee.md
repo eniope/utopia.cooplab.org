@@ -8,7 +8,7 @@ type: note théorique
 statut: publié
 draft: false
 description: "Entre Ogien et Vercauteren, une tension productive : la capacité politique existe dans l'expérience ordinaire, mais elle ne s'active pas seule. C'est là que se logent les alliances capacitantes."
-tags: [alliances-capacitantes, citoyenneté, collectif, devenir-capable, dispositif, sciences-citoyennes]
+tags: [alliances-capacitantes, citoyenneté, collectif, devenir-capable, dispositif, sciences-citoyennes, intériorité-citoyenne]
 chantier: [these, utopia, CARe]
 terrain: Boischaut Sud
 résumé: "Entre Ogien et Vercauteren, une tension productive : la capacité politique existe dans l'expérience ordinaire, mais elle ne s'active pas seule. C'est là que se logent les alliances capacitantes."
