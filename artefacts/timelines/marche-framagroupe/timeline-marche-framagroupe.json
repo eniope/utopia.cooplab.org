@@ -337,6 +337,31 @@
       ]
     },
     {
+      "id": "sc-01",
+      "group": "scene",
+      "title": "Réunion publique — PNR Sud Berry",
+      "start_date": {
+        "year": 2026,
+        "month": 5,
+        "day": 22
+      },
+      "statut": "reel",
+      "posture": "situe",
+      "summary": "Réunion publique de soutien au projet de Parc Naturel Régional Sud Berry. Élus, acteurs économiques, associations, citoyens. Salle des Fêtes, 4 av. André Malraux, La Châtre — 18h00.",
+      "situation": "Le projet PNR circule depuis longtemps dans le territoire. Cette réunion publique en marque une étape.",
+      "enjeu": "Ce qui se passe place du marché et ce qui se passe dans les instances — sont-ils dans le même mouvement ?",
+      "effet": "",
+      "actors": [],
+      "tags": [
+        "PNR",
+        "territoire",
+        "institution",
+        "La-Chatre"
+      ],
+      "reflexive_notes": [],
+      "bifurcation": false
+    },
+    {
       "id": "ou-02",
       "group": "horizon",
       "title": "Rencontre citoyenne Exhale et \"Cap sur la citoyenneté\" à Briantes",
