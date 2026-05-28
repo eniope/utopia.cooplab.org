@@ -1,0 +1,143 @@
+{
+  "title": {
+    "text": {
+      "headline": "Ce qui se passe depuis la place du march&eacute;",
+      "text": "<p>Un r&eacute;cit du territoire &mdash; et pourquoi vous &ecirc;tes dans cette liste</p><p><em>Pays La Ch&acirc;tre en Berry / Boischaut Sud</em></p><p>Document vivant - mai 2026. <a href='https://mypads2.framapad.org/mypads/?/mypads/group/pays-la-chatre-en-berry-8b6qvd97k/pad/view/collectes-parc-des-parelles-14-06-8aiwe96b' target='_blank'>R&eacute;agissez sur le Framapad &#9999;&#65039;</a></p>"
+    }
+  },
+  "eras": [
+    {
+      "start_date": { "year": 2024, "month": 11, "day": 1 },
+      "end_date":   { "year": 2026, "month": 5,  "day": 10 },
+      "text": { "headline": "Avant la liste - Ce qui a ferment&eacute;" }
+    },
+    {
+      "start_date": { "year": 2026, "month": 5,  "day": 11 },
+      "end_date":   { "year": 2026, "month": 12, "day": 31 },
+      "text": { "headline": "Conversations en lisi&egrave;res - Vous y &ecirc;tes" }
+    }
+  ],
+  "events": [
+    {
+      "unique_id": "pm-01",
+      "group": "&#127981; Sc&egrave;nes",
+      "start_date": { "year": 2026, "month": 1, "day": 1 },
+      "text": {
+        "headline": "Un bourg rural dans la &laquo;diagonale du vide&raquo;",
+        "text": "<p>Pays La Ch&acirc;tre en Berry, Boischaut Sud - lisi&egrave;re Indre/Creuse. 28 167 habitants, trois intercommunalit&eacute;s r&eacute;unies dans un m&ecirc;me Pays. Ce territoire que vous habitez ou que vous traversez r&eacute;guli&egrave;rement.</p><p><strong>Situation :</strong> Une place de march&eacute; ordinaire dans la diagonale du vide. Un territoire en d&eacute;clin &agrave; g&eacute;rer&nbsp;? Ou un territoire vivant capable de produire un projet collectif singulier&nbsp;?</p><p><strong>Enjeu :</strong> Qu&rsquo;est-ce qui palpite et m&eacute;rite d&rsquo;&ecirc;tre rendu visible ici&nbsp;? Qu&rsquo;est-ce qui se passe que personne ne voit encore dans son ensemble&nbsp;?</p><blockquote>Un &laquo;vide&raquo; qui pense, qui agit, qui invente - comment on appelle &ccedil;a&nbsp;?</blockquote>"
+      }
+    },
+    {
+      "unique_id": "pm-02",
+      "group": "&#127981; Sc&egrave;nes",
+      "start_date": { "year": 2026, "month": 2, "day": 1 },
+      "text": {
+        "headline": "Ce qui palpite place du march&eacute;",
+        "text": "<p>Depuis f&eacute;vrier 2026 : conversations au caf&eacute;, dedans, dehors sur la terrasse, rencontres informelles r&eacute;guli&egrave;res, fils qui se nouent sans agenda. La place du march&eacute; de La Ch&acirc;tre - tous les samedis matin - comme endroit o&ugrave; les choses arrivent.</p><p><strong>Situation :</strong> Pas un &eacute;v&eacute;nement, pas un projet. Une r&eacute;gularit&eacute;. Les gens y viennent pour autre chose - c&rsquo;est pr&eacute;cis&eacute;ment pour &ccedil;a que la parole y est libre.</p><p><strong>Enjeu :</strong> Qu&rsquo;est-ce qui se joue l&agrave;, dans ces &eacute;changes apparemment ordinaires&nbsp;?</p><p><strong>Effet :</strong> Des observations qui vont cristalliser en avril.</p><blockquote>&laquo;Un endroit o&ugrave; les choses arrivent parce qu&rsquo;on est l&agrave;, disponible, habitant.&raquo;</blockquote>"
+      }
+    },
+    {
+      "unique_id": "pm-03",
+      "group": "&#127981; Sc&egrave;nes",
+      "start_date": { "year": 2026, "month": 4, "day": 11 },
+      "text": {
+        "headline": "&#9679; La table du 11 avril - quelque chose se passe",
+        "text": "<p>Samedi matin, terrasse de la place du march&eacute;. Une dizaine d&rsquo;habitants&middot;es des trois intercommunalit&eacute;s. Des actifs (soin, commerce), des retrait&eacute;s - et un habitant devenu r&eacute;cemment &eacute;lu depuis des &laquo;imaginaires d&eacute;sirables&raquo; partag&eacute;s. Constat partag&eacute; : des initiatives citoyennes existent partout sur le territoire, mais personne ne voit l&rsquo;ensemble. D&eacute;cision spontan&eacute;e : une rencontre citoyens/&eacute;lus avant l&rsquo;&eacute;t&eacute;, au Parc des Parelles.</p><p><strong>Situation :</strong> Personne n&rsquo;avait pr&eacute;vu que &ccedil;a tournerait comme &ccedil;a. Pas de programme, pas d&rsquo;animateur d&eacute;sign&eacute;. Le diagnostic collectif est apparu tout seul.</p><p><strong>Enjeu :</strong> L&rsquo;&eacute;lu l&rsquo;a dit : &laquo;Saisissons l&rsquo;effervescence avant l&rsquo;&eacute;t&eacute;, sinon le souffl&eacute; risque de retomber.&raquo; Ce n&rsquo;&eacute;tait pas du pessimisme - c&rsquo;&eacute;tait du r&eacute;alisme attentif.</p><p><strong>Effet :</strong> Ce moment est le point d&rsquo;origine de tout ce qui suit - et de cette liste.</p><blockquote>Il n&rsquo;y avait pas de programme, mais des pr&eacute;sences d&rsquo;imaginaires d&eacute;sirables. Les deux bouts ont &eacute;t&eacute; tenus : le d&eacute;sir ET la fragilit&eacute; du r&eacute;el.</blockquote>"
+      }
+    },
+    {
+      "unique_id": "tr-01",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 4, "day": 11 },
+      "media": {
+        "url": "https://youtu.be/uSOKjfoKuIM?si=wclmLXD7DpweN6Hu",
+        "caption": "La rencontre des biblioth&egrave;ques int&eacute;rieures - Rapha&euml;lle Bats"
+      },
+      "text": {
+        "headline": "Rentr&eacute; du march&eacute;, premiers envois",
+        "text": "<p>Le soir m&ecirc;me, envoi &agrave; quelques personnes pour relater ce qui s&rsquo;est pass&eacute; autour de la table.</p><p><strong>Situation :</strong> Un geste simple : partager ce qui vient de se passer avant que &ccedil;a s&rsquo;&eacute;vapore.</p><p><strong>Enjeu :</strong> Transmettre la sc&egrave;ne sans la d&eacute;former, sans en faire plus qu&rsquo;elle n&rsquo;est.</p><p><strong>Effet :</strong> La boucle s&rsquo;enclenche : la sc&egrave;ne commence &agrave; circuler.</p>"
+      }
+    },
+    {
+      "unique_id": "tr-02",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 4, "day": 18 },
+      "text": {
+        "headline": "Mail &laquo;Nos utopies ?&raquo; - la sc&egrave;ne partag&eacute;e",
+        "text": "<p>Mail partag&eacute; : le r&eacute;cit de la sc&egrave;ne du march&eacute;, une invitation &agrave; en parler. Le titre : &laquo;Nos utopies ?&raquo;. L&rsquo;ouverture : &laquo;Hello, Permettez vous que j&rsquo;emprunte vos oreilles... Ha mais non je m&rsquo;&eacute;gare, je vous partage un moment sp&eacute;cial Pays La Ch&acirc;tre en Berry.&raquo;</p><p><strong>Situation :</strong> Pas un compte rendu officiel. Un r&eacute;cit de ce qui s&rsquo;est pass&eacute; - en faisant confiance &agrave; la sc&egrave;ne pour parler d&rsquo;elle-m&ecirc;me.</p><p><strong>Enjeu :</strong> Que les gens qui n&rsquo;&eacute;taient pas l&agrave; puissent se sentir concern&eacute;s, sans qu&rsquo;on leur impose une interpr&eacute;tation.</p><p><strong>Effet :</strong> L&rsquo;information circule et va chercher du compagnonnage.</p><blockquote>&laquo;Ha mais non je m&rsquo;&eacute;gare&raquo; - auto-interruption qui renonce au grand r&eacute;cit avant qu&rsquo;il s&rsquo;installe. Confiance &agrave; la sc&egrave;ne.<br>Trois questions ouvertes &agrave; la fin, pas rh&eacute;toriques : &laquo;Qu&rsquo;en pensez vous ? En seriez vous ?&raquo;</blockquote>"
+      }
+    },
+    {
+      "unique_id": "tr-04",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 4, "day": 25 },
+      "text": {
+        "headline": "&#9679; &laquo;Cr&eacute;er l&rsquo;envie d&rsquo;avoir ENVIE&raquo;",
+        "text": "<p>Deux semaines apr&egrave;s la table du march&eacute;, retour concernant la vid&eacute;o &laquo;biblioth&egrave;ques vivantes&raquo;. Cinq points pr&eacute;cis sur les conditions de possibilit&eacute;. Et cette phrase, en majuscules : &laquo;la premi&egrave;re chose &agrave; faire, c&rsquo;EST DE cr&eacute;er l&rsquo;envie d&rsquo;avoir ENVIE&raquo;.</p><p><strong>Situation :</strong> Pas un refus mais un diagnostic de terrain. R&eacute;alisme d&rsquo;optimiste : nommer ce que &ccedil;a demande vraiment.</p><p><strong>Enjeu :</strong> Les obstacles nomm&eacute;s (rayons vides, incapacit&eacute; d&rsquo;&eacute;coute, ego, faible participation) sont exactement ce que cette liste essaie de contourner.</p><p><strong>Effet :</strong> La formule &laquo;cr&eacute;er l&rsquo;envie d&rsquo;avoir ENVIE&raquo; dit bien ce &agrave; quoi cette liste aspire.</p><blockquote>Pas &laquo;comment faire penser un collectif&raquo; mais comment cr&eacute;er les conditions pour que l&rsquo;envie &eacute;merge. Question d&rsquo;amor&ccedil;age.<br>Ce retour est une collaboration critique qui dit ce qui manque, sans d&eacute;courager.</blockquote>"
+      }
+    },
+    {
+      "unique_id": "tr-05",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 4, "day": 28 },
+      "text": {
+        "headline": "Assembl&eacute;e G&eacute;n&eacute;rale d&rsquo;Exhale - la sc&egrave;ne dans la vie associative",
+        "text": "<p>AG de l&rsquo;association Exhale, La Ch&acirc;tre. La sc&egrave;ne du 11 avril est partag&eacute;e lors du temps d&rsquo;&eacute;change libre. Exhale programme d&eacute;j&agrave; une rencontre citoyenne le 12 juin avec la R&eacute;gion Centre-Val de Loire.</p><p><strong>Situation :</strong> La proposition habitante issue de la table du march&eacute; rencontre un agenda associatif existant. Sans &ecirc;tre absorb&eacute;e.</p><p><strong>Enjeu :</strong> Comment une dynamique informelle entre en contact avec une institution sans perdre ce qui fait sa force&nbsp;?</p><p><strong>Effet :</strong> Formulation d&rsquo;un mail d&rsquo;invitation.</p>"
+      }
+    },
+    {
+      "unique_id": "pm-04",
+      "group": "&#127981; Sc&egrave;nes",
+      "start_date": { "year": 2026, "month": 5, "day": 1 },
+      "text": {
+        "headline": "Le mail d&rsquo;invitation",
+        "text": "<p>&laquo;Contexte : Un essaim d&rsquo;habitants.tes se retrouvent place du march&eacute;, constatent moultes initiatives citoyennes locales, l&rsquo;envie de se voir et de se parler. L&rsquo;envie est la suivante, se retrouver &agrave; l&rsquo;amphith&eacute;&acirc;tre des Parelles, se raconter nos aspirations et pr&eacute;occupations de celles qui font parfois naitre le geste ;) &Ccedil;a vous dit&nbsp;? On trouve un outil pour se caler une date&nbsp;? Ou comme &ccedil;a le dimanche 14 juin&nbsp;? ^^&raquo;</p><blockquote>La place comme lieu qui fait surgir la m&eacute;moire - pas par un programme, par la r&eacute;gularit&eacute; de la pr&eacute;sence.</blockquote>"
+      }
+    },
+    {
+      "unique_id": "tr-06",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 5, "day": 11 },
+      "text": {
+        "headline": "Vous avez re&ccedil;u ce mail",
+        "text": "<p>Envoi du mail d&rsquo;invitation &agrave; framagroupes. Profil h&eacute;t&eacute;rog&egrave;ne : hommes et femmes, jeunes et moins jeunes, actifs et retrait&eacute;s, n&eacute;os et du cru, citoyens, associatifs, &eacute;lus.</p><p><strong>Situation :</strong> Pas une newsletter. Pas un r&eacute;seau mais quelque chose de plus modeste : un espace o&ugrave; des fragments de ce qui se transforme sur ce territoire peuvent commencer &agrave; se percevoir mutuellement. Une amorce de maillage&nbsp;?</p><p><strong>Effet :</strong> 14 r&eacute;ponses positives : 13 sur Framagroupes, 1 en direct. La liste commence &agrave; exister.</p><blockquote>Le mail part d&rsquo;un milieu d&eacute;j&agrave; vivant, pas d&rsquo;un projet &agrave; imposer. Vous &ecirc;tes ce milieu.<br>&laquo;Tu peux lire sans jamais r&eacute;pondre. Te d&eacute;sinscrire &agrave; tout moment. Contribuer si l&rsquo;envie vient.&raquo;</blockquote>"
+      }
+    },
+    {
+      "unique_id": "tr-07",
+      "group": "&#128232; Ce qui a circul&eacute;",
+      "start_date": { "year": 2026, "month": 5, "day": 18 },
+      "text": {
+        "headline": "Vous y &ecirc;tes - la liste est vivante",
+        "text": "<p>La liste conversations-en-lisieres@framagroupes.org est cr&eacute;&eacute;e et active. 13 abonn&eacute;s au 18 mai. Cette amorce de frise chronologique est le premier envoi.</p><p><strong>Situation :</strong> Pas encore de nom pour ce que c&rsquo;est. Un essaim, peut-&ecirc;tre - une intelligence qui circule sans centre unique. Une proposition est sortie un jour de march&eacute; : La ruche citoyenne&nbsp;? A vos propositions...</p><p><strong>Enjeu :</strong> Jardiner une &laquo;culture vivante de l&rsquo;autorisation&raquo; au Pays. Cr&eacute;er les conditions d&rsquo;une narration collective que le territoire lui-m&ecirc;me peut raconter.</p><p><strong>Effet :</strong> C&rsquo;est maintenant. Vous lisez ceci.</p><blockquote>&laquo;Fiez-vous au caract&egrave;re in&eacute;puisable du murmure.&raquo; - Andr&eacute; Breton. Un collectif pense aussi dans ses h&eacute;sitations, ses reprises, ses r&eacute;sonances discr&egrave;tes.<br>Ce n&rsquo;est pas une newsletter. Ce n&rsquo;est pas un r&eacute;seau. Vous d&eacute;cidez vous-m&ecirc;mes de ce que &ccedil;a devient.</blockquote>"
+      }
+    },
+    {
+      "unique_id": "sc-01",
+      "group": "&#127981; Sc&egrave;nes",
+      "start_date": { "year": 2026, "month": 5, "day": 22 },
+      "text": {
+        "headline": "R&eacute;union publique - PNR Sud Berry",
+        "text": "<p>R&eacute;union publique de soutien au projet de Parc Naturel R&eacute;gional Sud Berry. &Eacute;lus, acteurs &eacute;conomiques, associations, citoyens. Salle des F&ecirc;tes, 4 av. Andr&eacute; Malraux, La Ch&acirc;tre - 18h00.</p><p><strong>Situation :</strong> Le projet PNR circule depuis longtemps dans le territoire. Cette r&eacute;union publique en marque une &eacute;tape.</p><p><strong>Enjeu :</strong> Ce qui se passe place du march&eacute; et ce qui se passe dans les instances - sont-ils dans le m&ecirc;me mouvement&nbsp;?</p>"
+      }
+    },
+    {
+      "unique_id": "ou-02",
+      "group": "&#127807; Ce qui s&rsquo;ouvre",
+      "start_date": { "year": 2026, "month": 6, "day": 12 },
+      "text": {
+        "headline": "Rencontre citoyenne Exhale / &laquo;Cap sur la citoyennet&eacute;&raquo; &agrave; Briantes",
+        "text": "<p>Rencontre citoyenne organis&eacute;e par Exhale en partenariat avec la R&eacute;gion Centre-Val de Loire. Premier espace public o&ugrave; la dynamique du 11 avril pourrait rencontrer un agenda institutionnel.</p><p><strong>Situation :</strong> Horizon op&eacute;rationnel.</p><p><strong>Enjeu :</strong> Comment la dynamique habitante - informelle, sans programme - tient-elle dans un espace plus institutionnel&nbsp;?</p><p><a href='https://forms.office.com/Pages/ResponsePage.aspx?id=rG0aykHLREqfFBaq4Eh6hFTipIDaElJEu9R7u2lvbzRUMDNZVVJST1JFVTJXU0E4NjEyQkpXU0Q3Vi4u' target='_blank'>Exhale accueille &laquo;Cap sur la citoyennet&eacute;&raquo; &agrave; Briantes le 12 juin - S&rsquo;inscrire</a>&nbsp;|&nbsp;<a href='https://www.centre-valdeloire.fr/agir/faire-vivre-la-democratie-et-legalite/democratie-permanente' target='_blank'>Tout le programme - R&eacute;gion Centre-Val de Loire</a></p>"
+      }
+    },
+    {
+      "unique_id": "ou-03",
+      "group": "&#127807; Ce qui s&rsquo;ouvre",
+      "start_date": { "year": 2026, "month": 6, "day": 14 },
+      "text": {
+        "headline": "Rencontre citoyens / &eacute;lus aux Parelles ?",
+        "text": "<p>Proposition n&eacute;e &agrave; la table du 11 avril : une rencontre citoyens/&eacute;lus au Parc des Parelles. Des &eacute;lus semblent partants. La fen&ecirc;tre : avant l&rsquo;&eacute;t&eacute;.</p><p><strong>Situation :</strong> &laquo;Avant l&rsquo;&eacute;t&eacute;, sinon le souffl&eacute; retombe&raquo; - dixit l&rsquo;&eacute;lu. La proposition tient encore. Elle attend.</p><p><strong>Enjeu :</strong> Un espace de d&eacute;lib&eacute;ration locale, non format&eacute;. &laquo;Un autre temps ici la citoyennet&eacute; locale&nbsp;?&raquo;</p><p><strong>Effet :</strong> &Agrave; venir - et peut-&ecirc;tre que vous y serez.</p><blockquote>Si ce moment a lieu, il faudra le raconter. Peut-&ecirc;tre que certains d&rsquo;entre vous y seront.</blockquote>"
+      }
+    }
+  ]
+}
