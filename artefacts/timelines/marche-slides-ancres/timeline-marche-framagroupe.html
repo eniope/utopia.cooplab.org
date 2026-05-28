@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ce qui se passe depuis la place du marché</title>
+
+  <!-- TimelineJS 3 -->
+  <link title="timeline-styles" rel="stylesheet"
+        href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      height: 100%;
+      font-family: Georgia, serif;
+      background: #faf9f7;
+    }
+
+    /* Bandeau territoire au-dessus de la timeline */
+    #page-header {
+      background: #1a2540;
+      color: #e8e4de;
+      padding: 0.6rem 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      font-size: 0.82rem;
+    }
+
+    #page-header .territoire {
+      font-style: italic;
+      opacity: 0.75;
+    }
+
+    #page-header a.framapad-btn {
+      display: inline-block;
+      background: #2ecc71;
+      color: white;
+      padding: 0.25rem 0.7rem;
+      border-radius: 20px;
+      text-decoration: none;
+      font-size: 0.78rem;
+      font-family: sans-serif;
+      white-space: nowrap;
+    }
+
+    #page-header a.framapad-btn:hover {
+      background: #27ae60;
+    }
+
+    /* Conteneur timeline - hauteur = viewport moins le bandeau */
+    #timeline-embed {
+      width: 100%;
+      height: calc(100vh - 38px);
+      min-height: 550px;
+    }
+
+    /* Sur mobile : bandeau plus compact */
+    @media (max-width: 600px) {
+      #page-header { padding: 0.4rem 0.8rem; font-size: 0.75rem; }
+      #timeline-embed { height: calc(100vh - 34px); }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="page-header">
+    <span class="territoire">Pays La Châtre en Berry / Boischaut Sud - mai 2026</span>
+    <a class="framapad-btn"
+       href="https://mypads2.framapad.org/mypads/?/mypads/group/pays-la-chatre-en-berry-8b6qvd97k/pad/view/collectes-parc-des-parelles-14-06-8aiwe96b"
+       target="_blank">&#9999;&#65039; Écrire sur le Framapad</a>
+  </div>
+
+  <div id="timeline-embed"></div>
+
+  <!-- TimelineJS 3 -->
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <script>
+    /*
+      URLs autonomes par slide
+      -------------------------
+      Avec hash_bookmark: true, chaque slide devient adressable.
+
+      Format des URLs generees :
+        #event-pm-01    -> slide "Un bourg rural dans la diagonale du vide"
+        #event-pm-03    -> slide "La table du 11 avril"
+        #event-tr-04    -> slide "Créer l'envie d'avoir ENVIE"
+        #event-ou-03    -> slide "Rencontre citoyens/élus aux Parelles"
+        etc.
+
+      La cle : unique_id dans le JSON + hash_bookmark: true ici.
+      TimelineJS prepend "event-" a chaque unique_id pour former le hash.
+
+      Pour partager un moment precis, copier l'URL apres navigation vers ce slide.
+    */
+
+    var options = {
+      hash_bookmark:     true,       // activer les URLs autonomes par slide
+      language:          "fr",       // dates en français
+      timenav_position:  "bottom",   // barre temporelle en bas
+      timenav_height:    130,
+      start_at_slide:    0,          // 0 = slide de titre
+      font:              "Default",
+
+      /*
+        Les evenements vont de 2024-11 a 2026-12.
+        initial_zoom_offset ajuste le zoom de depart pour ne pas afficher
+        des decades vides - valeur entre 0 (global) et 10 (tres zoom).
+      */
+      zoom_sequence: [0.5, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89],
+      initial_zoom:  4
+    };
+
+    /*
+      Le JSON est servi en relatif depuis le meme dossier.
+      Adapter le chemin si l'arborescence Quartz differe.
+    */
+    window.timeline = new TL.Timeline(
+      'timeline-embed',
+      'timeline-marche-framagroupe-knightlab.json',
+      options
+    );
+  </script>
+
+</body>
+</html>
